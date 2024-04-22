@@ -59,4 +59,4 @@ Then, you can use the files within the repository. As for the usage of the libra
 ```py
 import preprocessing
 ```
-or any other appropriate way this language allows.
+or any other appropriate way the language allows.
