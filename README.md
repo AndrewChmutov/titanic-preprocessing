@@ -16,7 +16,8 @@ Each file in the repository has it's own purpose.
 | [preprocessing.py](preprocessing.py) | The library itself
 | [samples.ipynb](samples.ipynb) | A set of use cases from the library
 | [tests.ipynb](tests.ipynb) | The comparison of cross-validation metric with respect to how data was prepared
-| [train.csv](tests.ipynb) | The training dataset. If you want to download or to play around with testing data as well, you should visit the following [section](https://www.kaggle.com/competitions/titanic/data) of the competition.
+| [train.csv](train.csv) | The training dataset. If you want to download or to play around with testing data as well, you should visit the following [section](https://www.kaggle.com/competitions/titanic/data) of the competition.
+| [improved_dataset.csv](improved_dataset.csv) | The improved dataset
 
 ## Getting started
 
